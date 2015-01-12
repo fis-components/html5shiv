@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/aFarkas/html5shiv.git",
+    "version": "3.7.2",
+    "name": "html5shiv",
+    "main": "html5shiv.js"
+}
